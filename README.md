@@ -1,6 +1,14 @@
-# tutorial_4_themes_platforms
+# Tutorial Flutter 4 Session 2
 
-A new Flutter project.
+Understanding about Platform Widget and Theme
+
+![capture_1](https://cybereye-community.com/img/p_t_1.png)
+
+![capture_2](https://cybereye-community.com/img/p_t_2.png)
+
+![capture_3](https://cybereye-community.com/img/p_t_3.png)
+
+
 
 ## Getting Started
 
